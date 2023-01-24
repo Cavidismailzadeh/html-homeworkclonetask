@@ -1,0 +1,90 @@
+
+
+body{
+    background-color: rgb(34, 63, 63);
+}
+
+
+.first{
+
+    background-color: rgb(41, 99, 99);
+    width: 1000px;
+    height: 250px;
+    margin: auto;
+    width: 70%;    
+}
+
+.first h2{
+
+    font-size: 50px;
+    color: white;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+
+.first span{
+    font-size: 30px;
+    color: white;
+    padding-left: 200px;
+    padding-top: 30px;
+}
+
+.secound{
+    margin-top: 200px;
+    background-color: rgb(60, 70, 70);
+    width: 1000px;
+    height: 70px;
+    margin: auto;
+    width: 70%;    
+}
+
+.secound pre{
+    font-size: 20px;
+    color: white;
+    padding-left: 15px;
+    padding-top: 25px;
+    margin: auto;
+    width: 90%;       
+}
+
+ h3{
+    font-size: 30px;
+    color: rgb(95, 153, 153);
+    padding-left: 350px;
+    padding-top: 25px;
+    margin: auto;
+    width: 80%;       
+}
+
+.list{
+    width: 500px;
+    height: 800px;
+}
+li{
+    font-size: 15px;
+    color: rgb(95, 153, 153);
+    padding-left: 310px;
+    padding-top: 10px;
+    margin: auto;
+    width: 80%;    
+}
+
+span{
+
+    font-size: 15px;
+    color: rgb(95, 153, 153);
+    padding-left: 350px;
+    padding-top: 20px;
+    margin: auto;
+    width: 70%;   
+
+}
+
+pre{
+    font-size: 15px;
+    color: rgb(95, 153, 153);
+    padding-left: 218px;
+    padding-top: 20px;
+    margin: auto;
+    width: 90%;   
+}
