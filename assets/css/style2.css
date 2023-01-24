@@ -1,0 +1,155 @@
+
+
+.footer{
+background-attachment: fixed;
+background-color: rgb(88, 88, 88);
+    display: flex;
+}
+
+.content1 .box{
+    
+    font-size: xx-large;
+    margin-left: 30px;
+    color: white;
+    
+}
+
+.content2 .box1{
+    font-size: 60px;
+    color: coral;
+}
+
+.linkeds{
+    height: 40px;
+    background-attachment: fixed;
+    background-color: rgb(51, 51, 51);
+    display: flex;
+}
+
+
+
+.linked1 a{
+    border-style: solid;
+    font-size: 30px;
+    color:white;
+    margin-left: 10px;
+}
+
+
+.linked2 a{
+    border-style: solid;
+    font-size: 30px;
+    color:white;
+    margin-left: 10px;
+
+}
+
+
+.linked3 a{
+    border-style: solid;
+    font-size: 30px;
+    color:white;
+    margin-left: 10px;
+
+}
+
+
+.linked4 a{
+    border-style: solid;
+    font-size: 30px;
+    color:white;
+    margin-left: 10px;
+
+}
+
+
+.linked5 a{
+    border-style: solid;
+    font-size: 30px;
+    color:white;
+    margin-left: 10px;
+
+}
+
+
+.contents .img1{
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(117, 117, 117);
+}
+
+
+.contents{
+    background-attachment: fixed;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+
+.contents .img1text{
+    margin-left: 50px;
+    margin-top: 30PX;
+    width: 400px;
+    height: 800px;
+    color: black;
+    
+}
+
+.img1text .myBtn{
+    border: none;
+    color: coral;
+    background-color: white;
+}
+
+.contents5 .img2 {
+
+    margin-top: 10;
+    margin-left: 10;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(117, 117, 117);
+}
+
+
+.contents5 .img2text{
+    margin-left: 50px;
+    margin-top: 30PX;
+    width: 400px;
+    height: 800px;
+    color: black;
+    
+}
+
+.img2text .myBtn2{
+    border: none;
+    color: coral;
+    background-color: white;
+}
+
+
+.contents6 .img3 {
+
+    margin-top: 10;
+    margin-left: 10;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(117, 117, 117);
+}
+
+
+.contents6 .img3text{
+    margin-left: 50px;
+    margin-top: 30PX;
+    width: 400px;
+    height: 800px;
+    color: black;
+    
+}
+
+.img2text .myBtn3{
+    border: none;
+    color: coral;
+    background-color: white;
+}
+
